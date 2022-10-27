@@ -5,7 +5,7 @@ import stores from './store_directory.json'
 
 
 
-const googleApiKey = "AIzaSyAweseDsZxN28HOeo8m7iyZ0GFKCMEI8So";
+const googleApiKey = "AIzaSyCVH8e45o3d-5qmykzdhGKd1-3xYua5D2A";
 
 const App = () => {
   
